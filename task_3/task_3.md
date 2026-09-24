@@ -6,7 +6,6 @@ discipline: "Разработка мобильных приложений"
 # Практическая работа №3. AndroidManifest.xml — выполненные задания
 
 > Все 85 заданий (35 — «для закрепления» по темам 1–7, 50 — практический блок). 
-> Исправлены и переставлены на правильные места задания №31, 34, 40 (Блок 4) и №45–49 (Блок 5) — в исходном варианте их содержимое было перепутано местами или отсутствовало.
 
 ---
 
@@ -1949,7 +1948,7 @@ android:label="@string/app_name"
 android:roundIcon="@mipmap/ic_launcher_round"
 android:supportsRtl="true"
 android:theme="@style/Theme.Task_3">
-<activityandroid:name=".MainActivity"
+<activity android:name=".MainActivity"
 android:exported="true">
 <intent-filter>
 <action android:name="android.intent.action.MAIN" />
@@ -2077,7 +2076,7 @@ android:exported="true">
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:tools="http://schemas.android.com/tools"
 package="com.example.task_3">
-<applicationandroid:allowBackup="true"
+<application android:allowBackup="true"
 android:icon="@mipmap/ic_launcher"
 android:label="@string/app_name"
 android:roundIcon="@mipmap/ic_launcher_round"
