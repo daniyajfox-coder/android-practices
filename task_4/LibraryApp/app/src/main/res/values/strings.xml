@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Библиотека заданий: Android</string>
+
+    <string name="task01_title">Светофор</string>
+    <string name="task01_desc">Три кнопки меняют цвет фона экрана: красный, жёлтый, зелёный.</string>
+    <string name="task02_title">Генератор случайных чисел</string>
+    <string name="task02_desc">Нажми кнопку — получишь случайное число от 1 до 6.</string>
+    <string name="task03_title">Мини-тест с одной кнопкой</string>
+    <string name="task03_desc">Ответь на вопрос и нажми «Проверить».</string>
+    <string name="task04_title">Переключатель видимости</string>
+    <string name="task04_desc">Кнопка показывает и скрывает секретный текст.</string>
+    <string name="task05_title">Инвертор текста</string>
+    <string name="task05_desc">Введи слово — получишь его задом наперёд.</string>
+    <string name="task06_title">Калькулятор возраста питомца</string>
+    <string name="task06_desc">Человеческие годы собаки × 7 = собачьи годы.</string>
+    <string name="task07_title">Счетчик символов</string>
+    <string name="task07_desc">Количество введённых символов обновляется в реальном времени.</string>
+    <string name="task08_title">Симулятор фонарика</string>
+    <string name="task08_desc">Кнопка переключает экран между чёрным и белым цветом.</string>
+    <string name="task09_title">Конвертер см в дюймы</string>
+    <string name="task09_desc">Перевод сантиметров в дюймы (см / 2.54).</string>
+    <string name="task10_title">Определитель четности</string>
+    <string name="task10_desc">Определи, чётное число или нечётное.</string>
+    <string name="task11_title">Индекс массы тела (ИМТ)</string>
+    <string name="task11_desc">ИМТ = вес / (рост в м)². Вердикт: дефицит, норма или избыток.</string>
+    <string name="task12_title">Калькулятор расхода топлива</string>
+    <string name="task12_desc">Средний расход топлива на 100 км пути.</string>
+    <string name="task13_title">Конвертер температур</string>
+    <string name="task13_desc">Перевод градусов Цельсия в Фаренгейты и Кельвины.</string>
+    <string name="task14_title">Простой калькулятор (4 действия)</string>
+    <string name="task14_desc">Два числа и четыре действия: + − × ÷ (с защитой от деления на ноль).</string>
+    <string name="task15_title">Таймер скидки магазина</string>
+    <string name="task15_desc">Расчёт суммы скидки и итоговой цены товара.</string>
+    <string name="task16_title">Конвертер валют</string>
+    <string name="task16_desc">Перевод рублей в доллары и евро по условному курсу.</string>
+    <string name="task17_title">Генератор надежного PIN-кода</string>
+    <string name="task17_desc">Генерация PIN-кода без одинаковых соседних цифр.</string>
+    <string name="task18_title">Тест на знание столиц</string>
+    <string name="task18_desc">Выбери правильную столицу из трёх вариантов и набери очки.</string>
+    <string name="task19_title">Калькулятор времени в пути</string>
+    <string name="task19_desc">Расчёт времени в пути по расстоянию и средней скорости.</string>
+    <string name="task20_title">Оценщик надежности пароля</string>
+    <string name="task20_desc">Оценка надёжности пароля по длине в реальном времени.</string>
+    <string name="task21_title">Экран входа и Личный кабинет</string>
+    <string name="task21_desc">Введи логин и пароль (admin / 1234), чтобы войти в личный кабинет.</string>
+    <string name="task21_title_result">Экран входа и Личный кабинет — результат</string>
+    <string name="task22_title">Оформление заказа пиццы</string>
+    <string name="task22_desc">Выбери размер пиццы и укажи адрес — на втором экране будет чек.</string>
+    <string name="task22_title_result">Оформление заказа пиццы — результат</string>
+    <string name="task23_title">Квиз из двух вопросов</string>
+    <string name="task23_desc">Ответь на первый вопрос, затем на второй — и узнай итоговый балл.</string>
+    <string name="task23_title_result">Квиз из двух вопросов — результат</string>
+    <string name="task24_title">Конструктор визитки мастера</string>
+    <string name="task24_desc">Введи данные мастера — на втором экране появится визитка с кнопкой звонка.</string>
+    <string name="task24_title_result">Конструктор визитки мастера — результат</string>
+    <string name="task25_title">Дневник заметок</string>
+    <string name="task25_desc">Напиши заметку и открой её в режиме чтения крупным шрифтом.</string>
+    <string name="task25_title_result">Дневник заметок — результат</string>
+    <string name="task26_title">Калькулятор автокредита</string>
+    <string name="task26_desc">Расчёт аннуитетного платежа и график выплат на втором экране.</string>
+    <string name="task26_title_result">Калькулятор автокредита — результат</string>
+    <string name="task27_title">Электронный билет на поезд</string>
+    <string name="task27_desc">Введи станции отправления и прибытия — получишь билет с датой.</string>
+    <string name="task27_title_result">Электронный билет на поезд — результат</string>
+    <string name="task28_title">Анкета спортивного трекера</string>
+    <string name="task28_desc">Введи цель и пройденные шаги — на втором экране увидишь прогресс.</string>
+    <string name="task28_title_result">Анкета спортивного трекера — результат</string>
+    <string name="task29_title">Мини-словарь терминов</string>
+    <string name="task29_desc">Выбери термин, чтобы прочитать его описание.</string>
+    <string name="task30_title">Портфолио студента</string>
+    <string name="task30_desc">Главный экран портфолио с разделами «Обо мне», «Навыки», «Контакты».</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.LibraryApp"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:configChanges="screenSize|smallestScreenSize|orientation|screenLayout|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".tasks.task01.Task01Activity" android:exported="false" android:label="@string/task01_title" />
+        <activity android:name=".tasks.task02.Task02Activity" android:exported="false" android:label="@string/task02_title" />
+        <activity android:name=".tasks.task03.Task03Activity" android:exported="false" android:label="@string/task03_title" />
+        <activity android:name=".tasks.task04.Task04Activity" android:exported="false" android:label="@string/task04_title" />
+        <activity android:name=".tasks.task05.Task05Activity" android:exported="false" android:label="@string/task05_title" />
+        <activity android:name=".tasks.task06.Task06Activity" android:exported="false" android:label="@string/task06_title" />
+        <activity android:name=".tasks.task07.Task07Activity" android:exported="false" android:label="@string/task07_title" />
+        <activity android:name=".tasks.task08.Task08Activity" android:exported="false" android:label="@string/task08_title" />
+        <activity android:name=".tasks.task09.Task09Activity" android:exported="false" android:label="@string/task09_title" />
+        <activity android:name=".tasks.task10.Task10Activity" android:exported="false" android:label="@string/task10_title" />
+        <activity android:name=".tasks.task11.Task11Activity" android:exported="false" android:label="@string/task11_title" />
+        <activity android:name=".tasks.task12.Task12Activity" android:exported="false" android:label="@string/task12_title" />
+        <activity android:name=".tasks.task13.Task13Activity" android:exported="false" android:label="@string/task13_title" />
+        <activity android:name=".tasks.task14.Task14Activity" android:exported="false" android:label="@string/task14_title" />
+        <activity android:name=".tasks.task15.Task15Activity" android:exported="false" android:label="@string/task15_title" />
+        <activity android:name=".tasks.task16.Task16Activity" android:exported="false" android:label="@string/task16_title" />
+        <activity android:name=".tasks.task17.Task17Activity" android:exported="false" android:label="@string/task17_title" />
+        <activity android:name=".tasks.task18.Task18Activity" android:exported="false" android:label="@string/task18_title" />
+        <activity android:name=".tasks.task19.Task19Activity" android:exported="false" android:label="@string/task19_title" />
+        <activity android:name=".tasks.task20.Task20Activity" android:exported="false" android:label="@string/task20_title" />
+        <activity android:name=".tasks.task21.Task21Activity" android:exported="false" android:label="@string/task21_title" />
+        <activity android:name=".tasks.task21.Task21Step2Activity" android:exported="false" android:label="@string/task21_title_result" />
+        <activity android:name=".tasks.task22.Task22Activity" android:exported="false" android:label="@string/task22_title" />
+        <activity android:name=".tasks.task22.Task22Step2Activity" android:exported="false" android:label="@string/task22_title_result" />
+        <activity android:name=".tasks.task23.Task23Activity" android:exported="false" android:label="@string/task23_title" />
+        <activity android:name=".tasks.task23.Task23Step2Activity" android:exported="false" android:label="@string/task23_title_result" />
+        <activity android:name=".tasks.task24.Task24Activity" android:exported="false" android:label="@string/task24_title" />
+        <activity android:name=".tasks.task24.Task24Step2Activity" android:exported="false" android:label="@string/task24_title_result" />
+        <activity android:name=".tasks.task25.Task25Activity" android:exported="false" android:label="@string/task25_title" />
+        <activity android:name=".tasks.task25.Task25Step2Activity" android:exported="false" android:label="@string/task25_title_result" />
+        <activity android:name=".tasks.task26.Task26Activity" android:exported="false" android:label="@string/task26_title" />
+        <activity android:name=".tasks.task26.Task26Step2Activity" android:exported="false" android:label="@string/task26_title_result" />
+        <activity android:name=".tasks.task27.Task27Activity" android:exported="false" android:label="@string/task27_title" />
+        <activity android:name=".tasks.task27.Task27Step2Activity" android:exported="false" android:label="@string/task27_title_result" />
+        <activity android:name=".tasks.task28.Task28Activity" android:exported="false" android:label="@string/task28_title" />
+        <activity android:name=".tasks.task28.Task28Step2Activity" android:exported="false" android:label="@string/task28_title_result" />
+        <activity android:name=".tasks.task29.Task29Activity" android:exported="false" android:label="@string/task29_title" />
+        <activity android:name=".tasks.task29.Task29DetailActivity" android:exported="false" android:label="@string/task29_title" />
+        <activity android:name=".tasks.task30.Task30Activity" android:exported="false" android:label="@string/task30_title" />
+        <activity android:name=".tasks.task30.Task30AboutActivity" android:exported="false" android:label="@string/task30_title" />
+        <activity android:name=".tasks.task30.Task30SkillsActivity" android:exported="false" android:label="@string/task30_title" />
+        <activity android:name=".tasks.task30.Task30ContactsActivity" android:exported="false" android:label="@string/task30_title" />
+
+    </application>
+
+</manifest>
